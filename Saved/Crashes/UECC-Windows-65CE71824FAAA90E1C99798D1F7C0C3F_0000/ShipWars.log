@@ -1200,7 +1200,3 @@ LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable
 [2024.02.16-19.05.35:692][839]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.02.16-19.05.35:693][839]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2024.02.16-19.05.35:867][839]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
-[2024.02.16-19.05.37:627][839]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
-[2024.02.16-19.05.37:878][839]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.251908s
-[2024.02.16-19.05.39:572][839]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 3.947665s (1.947665s overbudget)
-[2024.02.16-19.05.39:935][839]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
